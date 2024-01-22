@@ -1,4 +1,4 @@
-# Proyecto - Template Method
+# Proyecto (Maven) - Template Method
 
 Extienda el diseño de su controlador automotriz del ejercicio del adaptador para que ahora se incluya una nueva operación en todos los motores: **diagnosticar()** para todos los motores (**Común, Económico, Eléctrico e Hibrido**) en el cual se implemente la forma de diagnóstico para cada uno de los motores. Se desea que sea un diagnóstico automático por computadora.
 
